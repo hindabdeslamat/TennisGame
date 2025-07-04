@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# TennisGame
+This React and Redux app lets you track the score between two tennis players with dynamic point updates and winner display. It features a sleek green-yellow themed design, smooth animations, and a responsive layout for all devices. Perfect for learning React state management while enjoying a clean, user-friendly interface.
+>>>>>>> 6528ecd3e478d1c443d3a77092389d0017de51cc
