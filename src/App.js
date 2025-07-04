@@ -17,9 +17,15 @@ export default function App() {
   </div>
 
   <div className="buttons">
+  <div style={{ textAlign: 'left' }}>
+    
     <PointJoueur num={1} />
+  </div>
+  <div style={{ textAlign: 'right' }}>
+    
     <PointJoueur num={2} />
   </div>
+</div>
 </div>
   );
 }
